@@ -1,4 +1,5 @@
-# Ubuntubody {
+# Ubuntu
+body {
 	font-size: 12px;
 	font-weight: 400;
 	font-family: Helvetica, Arial;
